@@ -19,3 +19,17 @@ Este usuário será o responsável em realizar todas as conexões com o seu banc
 ![alt text](image.png)
 
 
+Opcional:
+
+Clique em Admin:
+
+![alt text](image-1.png)
+
+e depois em Users:
+
+![alt text](image-2.png)
+
+Crie um usuário teste, para testar seus conhecimentos.
+
+
+

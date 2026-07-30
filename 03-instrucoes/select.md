@@ -14,3 +14,7 @@ Exemplo:
 ![alt text](image.png)
 
 
+
+
+---
+## Para que serve o sysdate ?
